@@ -1,0 +1,13 @@
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\obj\Debug\netcoreapp3.1\numeros primos hasta 100.csprojAssemblyReference.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\obj\Debug\netcoreapp3.1\numeros primos hasta 100.AssemblyInfoInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\obj\Debug\netcoreapp3.1\numeros primos hasta 100.AssemblyInfo.cs
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\obj\Debug\netcoreapp3.1\numeros primos hasta 100.csproj.CoreCompileInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\bin\Debug\netcoreapp3.1\numeros primos hasta 100.exe
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\bin\Debug\netcoreapp3.1\numeros primos hasta 100.deps.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\bin\Debug\netcoreapp3.1\numeros primos hasta 100.runtimeconfig.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\bin\Debug\netcoreapp3.1\numeros primos hasta 100.runtimeconfig.dev.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\bin\Debug\netcoreapp3.1\numeros primos hasta 100.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\bin\Debug\netcoreapp3.1\numeros primos hasta 100.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\obj\Debug\netcoreapp3.1\numeros primos hasta 100.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\obj\Debug\netcoreapp3.1\numeros primos hasta 100.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\numeros primos hasta 100\obj\Debug\netcoreapp3.1\numeros primos hasta 100.genruntimeconfig.cache

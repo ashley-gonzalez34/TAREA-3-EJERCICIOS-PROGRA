@@ -1,0 +1,13 @@
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\bin\Debug\netcoreapp3.1\NUMEROS PARES.exe
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\bin\Debug\netcoreapp3.1\NUMEROS PARES.deps.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\bin\Debug\netcoreapp3.1\NUMEROS PARES.runtimeconfig.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\bin\Debug\netcoreapp3.1\NUMEROS PARES.runtimeconfig.dev.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\bin\Debug\netcoreapp3.1\NUMEROS PARES.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\bin\Debug\netcoreapp3.1\NUMEROS PARES.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\obj\Debug\netcoreapp3.1\NUMEROS PARES.csprojAssemblyReference.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\obj\Debug\netcoreapp3.1\NUMEROS PARES.AssemblyInfoInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\obj\Debug\netcoreapp3.1\NUMEROS PARES.AssemblyInfo.cs
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\obj\Debug\netcoreapp3.1\NUMEROS PARES.csproj.CoreCompileInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\obj\Debug\netcoreapp3.1\NUMEROS PARES.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\obj\Debug\netcoreapp3.1\NUMEROS PARES.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\NUMEROS PARES\obj\Debug\netcoreapp3.1\NUMEROS PARES.genruntimeconfig.cache

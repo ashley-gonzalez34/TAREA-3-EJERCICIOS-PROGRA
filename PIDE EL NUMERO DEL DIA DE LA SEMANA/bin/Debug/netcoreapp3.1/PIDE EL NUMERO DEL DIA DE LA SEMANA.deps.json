@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PIDE EL NUMERO DEL DIA DE LA SEMANA/1.0.0": {
+        "runtime": {
+          "PIDE EL NUMERO DEL DIA DE LA SEMANA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PIDE EL NUMERO DEL DIA DE LA SEMANA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

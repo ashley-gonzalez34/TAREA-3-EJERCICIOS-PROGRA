@@ -1,0 +1,13 @@
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.exe
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.deps.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.runtimeconfig.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.runtimeconfig.dev.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.AssemblyInfoInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.AssemblyInfo.cs
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.csproj.CoreCompileInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.genruntimeconfig.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.csprojAssemblyReference.cache

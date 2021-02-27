@@ -1,0 +1,12 @@
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\obj\Debug\netcoreapp3.1\programa que calcula la edad.AssemblyInfoInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\obj\Debug\netcoreapp3.1\programa que calcula la edad.AssemblyInfo.cs
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\obj\Debug\netcoreapp3.1\programa que calcula la edad.csproj.CoreCompileInputs.cache
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\bin\Debug\netcoreapp3.1\programa que calcula la edad.exe
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\bin\Debug\netcoreapp3.1\programa que calcula la edad.deps.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\bin\Debug\netcoreapp3.1\programa que calcula la edad.runtimeconfig.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\bin\Debug\netcoreapp3.1\programa que calcula la edad.runtimeconfig.dev.json
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\bin\Debug\netcoreapp3.1\programa que calcula la edad.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\bin\Debug\netcoreapp3.1\programa que calcula la edad.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\obj\Debug\netcoreapp3.1\programa que calcula la edad.dll
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\obj\Debug\netcoreapp3.1\programa que calcula la edad.pdb
+C:\Users\ASHLEY\Desktop\TAREA #3 PROGRAMACION\programa que calcula la edad\obj\Debug\netcoreapp3.1\programa que calcula la edad.genruntimeconfig.cache

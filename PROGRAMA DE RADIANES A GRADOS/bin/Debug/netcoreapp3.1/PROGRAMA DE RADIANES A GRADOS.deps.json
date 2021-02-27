@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PROGRAMA DE RADIANES A GRADOS/1.0.0": {
+        "runtime": {
+          "PROGRAMA DE RADIANES A GRADOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROGRAMA DE RADIANES A GRADOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
